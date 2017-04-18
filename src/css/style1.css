@@ -1,0 +1,80 @@
+.shipin1 {
+  width: 100%;
+  height: 500px;
+  margin: 0 auto;
+  background-color: red; }
+  .shipin1 img {
+    width: 100%; }
+
+.chanpin {
+  width: 200px;
+  height: 44px;
+  overflow-x: hidden;
+  background-image: linear-gradient(to right, purple, pink); }
+  .chanpin td {
+    width: 12.5%;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    line-height: 44px;
+    font-weight: 700; }
+  .chanpin #laa {
+    text-align: left; }
+
+#like {
+  width: 100%;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 45px; }
+
+.btn1 {
+  width: 16.5%;
+  height: 44px;
+  background-color: gold;
+  color: #fff;
+  font-size: 700;
+  font-size: 22px; }
+
+.btn2 {
+  width: 12.5%;
+  height: 44px;
+  background-color: gold;
+  color: #fff;
+  font-size: 700;
+  font-size: 22px;
+  display: none; }
+
+#dangc {
+  widows: 100%;
+  height: 400px; }
+  #dangc img {
+    width: 100%;
+    height: 400px; }
+
+.hrr {
+  width: 100%;
+  height: 30px;
+  background-image: linear-gradient(to top, orange, #000); }
+
+#fenlei {
+  width: 100%;
+  height: 400px;
+  background-color: #000; }
+
+.zhuanye {
+  width: 30%;
+  height: 178px;
+  float: left;
+  margin: 10px 1.5%;
+  border: 1px solid #fff; }
+
+.mingzi {
+  width: 100%;
+  height: 100px;
+  background-image: linear-gradient(to top, #fff, orange); }
+  .mingzi p {
+    font-size: 60px;
+    font-weight: 900;
+    text-shadow: 4px 4px 2px red;
+    text-align: center; }
